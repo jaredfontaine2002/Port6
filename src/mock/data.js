@@ -28,6 +28,7 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
+    img: 'Grizzly_bear.jpg'
     title: 'Bear Bubble Plot',
     info: "Used Pandas to create a bubble scatter map that shows the total calls where the bear was described as aggressive to the department of wild",
     info2: '',

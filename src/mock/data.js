@@ -28,6 +28,14 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
+    title: 'Bear Bubble Plot',
+    info: "Used Pandas to create a bubble scatter map that shows the total calls where the bear was described as aggressive to the department of wild",
+    info2: '',
+    url:'http://fontainej04.pythonanywhere.com/',
+    repo: '', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
     img: 'Two_bears.jpg',
     title: 'Human Deaths Caused by Bears',
     info: "The first project I have is a bear-human deaths data visualization.  I used MapQuest's free API to get the latitudes and longitudes of all 166-bear mauling's in the United States and plot them on an interactive map.  I presented this project to the Code for the Web meetup group.  I used Pandas, Plotly, Dash and matplotlib and a few other packages to create the visualization.  Dash is a great resource that allows the developer to create and publish online interactive data visualizations with only Python.  The Dash is built on top of React, JavaScript, and other languages so that the developer can focus on creating amazing visuals. I lead the group discussion and demonstrated my proficiencies with the technologies described above to the group.       ",

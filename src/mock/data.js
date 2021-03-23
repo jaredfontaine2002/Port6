@@ -41,7 +41,7 @@ export const projectsData = [
     title: 'Human Deaths Caused by Bears',
     info: "The first project I have is a bear-human deaths data visualization.  I used MapQuest's free API to get the latitudes and longitudes of all 166-bear mauling's in the United States and plot them on an interactive map.  I presented this project to the Code for the Web meetup group.  I used Pandas, Plotly, Dash and matplotlib and a few other packages to create the visualization.  Dash is a great resource that allows the developer to create and publish online interactive data visualizations with only Python.  The Dash is built on top of React, JavaScript, and other languages so that the developer can focus on creating amazing visuals. I lead the group discussion and demonstrated my proficiencies with the technologies described above to the group.       ",
     info2: '',
-    url:'http://jaredfontaine2002.pythonanywhere.com/'
+    url:'http://jaredfontaine2002.pythonanywhere.com/',
     repo: 'https://github.com/jaredfontaine2002/Bear_Attack', // if no repo, the button will not show up
   },
   {

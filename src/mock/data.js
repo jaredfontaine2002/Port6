@@ -32,7 +32,7 @@ export const projectsData = [
   title: 'Google Data Analytics Capstone Project Case Study 1 on bike share company Cyclistic',
   info: "This is the capstone project for my Google Analytics certification.  Our task is to find out how the members of the bike share company use the product differently. ",
   info2: "To complete this project I used R to wrangle and clean the data and create the CSV and then I used Python with Dash, Plotly, Pythonnywhere and Pandas to create the graph and website",
-  
+  url: 'http://jaredfontaine2002.pythonanywhere.com/',
   repo: '', // if no repo, the button will not show up
 },
   {

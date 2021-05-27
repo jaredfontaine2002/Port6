@@ -44,7 +44,7 @@ export const projectsData = [
     url:'http://fontainej04.pythonanywhere.com/',
     repo: '', // if no repo, the button will not show up
   },
-  {
+  "{
     id: nanoid(),
     img: 'Two_bears.jpg',
     title: 'Human Deaths Caused by Bears',
@@ -61,7 +61,7 @@ export const projectsData = [
     info2: "I am using a linear regression and maybe a logistic regression on the data.  I have collected information from Colorado and Alaska for the last 2 years.  Many states have not recorded their bear-human interactions in a digital usable format in the past so this is truly ground break information.  The project is ongoing and I will all more states as their information comes in",
     
     repo: 'https://github.com/jaredfontaine2002/Colorado_bear', // if no repo, the button will not show up
-  },
+  },"
   
 ];
 

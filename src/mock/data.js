@@ -44,6 +44,15 @@ export const projectsData = [
     url:'http://fontainej04.pythonanywhere.com/',
     repo: '', // if no repo, the button will not show up
   },
+  {
+    id: nanoid(),
+    img: 'GOP_LOGO.jpg',
+    title: 'Time Day for Ward 5 Washington, DC Council Voter Dashboard',
+    info: "I created this Dashboard for the 2008 Tim Day for Ward 5 Council seat.  We needed to create canvass lists for volunteers to know on doors.  I wanted to visualize where the Republican voters lived to target them for the General election.    ",
+    info2: '',
+    url:'https://public.tableau.com/views/Ward_5_GOP/Dashboard1?:language=en-US&:retry=yes&:display_count=n&:origin=viz_share_link',
+    repo: '', // if no repo, the button will not show up
+  },
   /*{
     id: nanoid(),
     img: 'Two_bears.jpg',

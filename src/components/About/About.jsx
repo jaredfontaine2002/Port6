@@ -39,14 +39,14 @@ const About = () => {
               <div className="about-wrapper__info">
                 <p className="about-wrapper__info-text">
                   {paragraphOne ||
-                    'I am a data analyst specializing in Python and Jupyter Notebooks.  I started my career in data  while working as the field director for a United States Congressman David McKinley WV-01 using Microsoft Excel and Access to query targeted voter lists canvasing lists for campaign volunteers from the voter registration lists. These lists allowed us to target soft voters with certain persuasive messages.   '}
+                    'I am a data analyst with a passion for using data to solve problems. I have experience working with a variety of data sources, including SQL databases, Excel spreadsheets, and Python. I am proficient in using data analysis techniques to identify trends, make predictions, and communicate findings. '}
                 </p>
                 <p className="about-wrapper__info-text">
                   {paragraphTwo ||
-                    '  During studies at Wheeling Jesuit University, I worked as a data analyst for the University’s marketing department conducting forensic research using Microsoft Access and Excel. '}
+                    ' I have a proven track record of success in using data to improve business outcomes. In my previous role as a data analyst for Tim Day for Ward 5 DC Council race in 2008, I used SQL to query the voter registration database to identify potential voters. I also created reports and presentations to communicate my findings to the campaign staff. This work resulted in an increase in voter turnout in the Ward 5 election.. '}
                 </p>
                 <p className="about-wrapper__info-text">
-                  {paragraphThree || ' I entered data from the old marketing department’s POs to create a dashboard that was used for the University’s Performance metrics.  '}
+                  {paragraphThree || '  As a former data analyst for the Marketing Department at Wheeling Jesuit University, I use Excel to create pivot tables and other Microsoft Excel features to track marketing campaigns. I also use Python to create interactive dashboards using Pandas, Matplotlib, and Dash. This work has resulted in an increase in the effectiveness of marketing campaigns at Wheeling Jesuit University. I am a cyclist and I love data. I am always looking for new ways to use data to improve the world. I am confident that my skills and experience would be a valuable asset to any organization'}
                 </p>
                 {resume && (
                   <span className="d-flex mt-3">

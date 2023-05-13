@@ -40,7 +40,7 @@ export const projectsData = [
     img: 'Cargo_ebike.jpg',
     title: 'Webscrape For Ebike company ',
     info: "I am passionate about using data to solve problems and make a positive impact on the world. I used my skills as a data analyst to help a client sell more ebikes by webscraping data, cleaning it with Python, using Google's API to find the best neighborhoods, and creating direct mailings to residents of those neighborhoods.  ",
-    info2: ""
+    info2: "",
     url:'https://www.kaggle.com/jaredfontaine/webscraper-ebike-project/edit',
     repo: '', // if no repo, the button will not show up
   },

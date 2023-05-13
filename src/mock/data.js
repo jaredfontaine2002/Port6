@@ -30,8 +30,8 @@ export const projectsData = [
     id: nanoid(),
     img: 'Cargo_ebike.jpg',
     title: 'Webscrape For Ebike company ',
-    info: "I am passionate about using data to solve problems and make a positive impact on the world. In this project, I used my skills as a data analyst to help a client sell more ebikes. I started by webscraping data from a website that lists neighborhoods in the United States. I then used Python to clean the data and remove any errors or inconsistencies. I then used Google's API to find the best neighborhoods for selling ebikes. The API provided me with information about the population density, average income, and average commute time for each neighborhood.  ",
-    info2: 'Once I had identified the best neighborhoods, I created a list of their respective locations. I then used this list to create direct mailings to residents of those neighborhoods. The mailings included information about the benefits of ebikes and how to purchase one. I am proud of the work that I did on this project, and I am confident that my skills as a data analyst can be used to make a positive impact on the world.',
+    info: "I am passionate about using data to solve problems and make a positive impact on the world. I used my skills as a data analyst to help a client sell more ebikes by webscraping data, cleaning it with Python, using Google's API to find the best neighborhoods, and creating direct mailings to residents of those neighborhoods.  ",
+    info2: "I am proud of my work and confident that my skills can be used to make a positive impact on the world",
     url:'https://www.kaggle.com/jaredfontaine/webscraper-ebike-project/edit',
     repo: '', // if no repo, the button will not show up
   },

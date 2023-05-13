@@ -28,7 +28,7 @@ export const aboutData = {
 export const projectsData = [
    {
     id: nanoid(),
-    img: 'University_class.jpg',
+    img: 'University_Class.jpg',
     title: 'Kaggle University Data Exploration',
     info: "  I used Python to clean and explore the Kaggle's University fictional dataset. The dataset contains information about students, faculty, and staff at a fictional university. I used the following steps to clean and explore the dataset:  ",
     info2: "1. I imported the dataset into Python using the Pandas library. 2. I checked for missing values and removed any rows that had missing values. 3. I cleaned up the data by removing any errors or inconsistencies. 4. I explored the data by looking at the distribution of values and identifying outlier",

@@ -28,10 +28,19 @@ export const aboutData = {
 export const projectsData = [
    {
     id: nanoid(),
+    img: 'University_class.jpg',
+    title: 'Kaggle University Data Exploration',
+    info: "  I used Python to clean and explore the Kaggle's University fictional dataset. The dataset contains information about students, faculty, and staff at a fictional university. I used the following steps to clean and explore the dataset:  ",
+    info2: "1. I imported the dataset into Python using the Pandas library. 2. I checked for missing values and removed any rows that had missing values. 3. I cleaned up the data by removing any errors or inconsistencies. 4. I explored the data by looking at the distribution of values and identifying outlier",
+    url:'https://www.kaggle.com/jaredfontaine/webscraper-ebike-project/edit',
+    repo: '', // if no repo, the button will not show up
+  },
+    {
+    id: nanoid(),
     img: 'Cargo_ebike.jpg',
     title: 'Webscrape For Ebike company ',
     info: "I am passionate about using data to solve problems and make a positive impact on the world. I used my skills as a data analyst to help a client sell more ebikes by webscraping data, cleaning it with Python, using Google's API to find the best neighborhoods, and creating direct mailings to residents of those neighborhoods.  ",
-    info2: "I am proud of my work and confident that my skills can be used to make a positive impact on the world",
+    info2: ""
     url:'https://www.kaggle.com/jaredfontaine/webscraper-ebike-project/edit',
     repo: '', // if no repo, the button will not show up
   },

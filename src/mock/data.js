@@ -44,42 +44,6 @@ export const projectsData = [
     url:'',
     repo: '', // if no repo, the button will not show up
   },
-   {
-    id: nanoid(),
-    img: 'University_Class.jpg',
-    title: 'Kaggle University Data Exploration',
-    info: "  I used Python to clean and explore the Kaggle's University fictional dataset. The dataset contains information about students, faculty, and staff at a fictional university. I used the following steps to clean and explore the dataset:  ",
-    info2: "1. I imported the dataset into Python using the Pandas library. 2. I checked for missing values and removed any rows that had missing values. 3. I cleaned up the data by removing any errors or inconsistencies. 4. I explored the data by looking at the distribution of values and identifying outlier",
-    url:'https://www.kaggle.com/jaredfontaine/webscraper-ebike-project/edit',
-    repo: '', // if no repo, the button will not show up
-  },
-    {
-    id: nanoid(),
-    img: 'Cargo_ebike.jpg',
-    title: 'Webscrape For Ebike company ',
-    info: "I am passionate about using data to solve problems and make a positive impact on the world. I used my skills as a data analyst to help a client sell more ebikes by webscraping data, cleaning it with Python, using Google's API to find the best neighborhoods, and creating direct mailings to residents of those neighborhoods.  ",
-    info2: "",
-    url:'https://www.kaggle.com/jaredfontaine/webscraper-ebike-project/edit',
-    repo: '', // if no repo, the button will not show up
-  },
-  {
-  id: nanoid(),
-  img: 'BikeShare.jpg',
-  title: 'Google Data Analytics Capstone Project Case Study 1 on bike share company Cyclistic',
-  info: "This is the capstone project for my Google Analytics certification.  Our task is to find out how the members of the bike share company use the product differently. ",
-  info2: "To complete this project I used R to wrangle and clean the data and create the CSV and then I used Python with Dash, Plotly, Pythonnywhere and Pandas to create the graph and website",
-  url: 'http://jaredfontaine2002.pythonanywhere.com/',
-  repo: '', // if no repo, the button will not show up
-},
-  {
-    id: nanoid(),
-    img: 'Grizzly_bear2.jpg',
-    title: 'Bear Bubble Plot',
-    info: "Used Pandas to create a bubble scatter map that shows the total calls where the bear was described as aggressive to the department of wild",
-    info2: '',
-    url:'http://fontainej04.pythonanywhere.com/',
-    repo: '', // if no repo, the button will not show up
-  },
   {
     id: nanoid(),
     img: 'TIm_Day_Dashboard.PNG',

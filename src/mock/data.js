@@ -28,7 +28,7 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'Dashboard_Inventory.jpg',
+    img: 'SuperStore_Story_board.PNG',
     title: 'Super Store Storyboard',
     info: " Created a storyboard of Super Store sales data to explore the health of the company and drill down on profitability.  Pr-eattentive shades and sizes to emphasis the important aspects of the company.",
     info2: " This dashboard is part of the UC Davis Data Visualization with Tableau Specialization Certification"

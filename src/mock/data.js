@@ -29,6 +29,15 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'Dashboard_Inventory.jpg',
+    title: 'Super Store Storyboard',
+    info: " Created a storyboard of Super Store sales data to explore the health of the company and drill down on profitability.  Pr-eattentive shades and sizes to emphasis the important aspects of the company.",
+    info2: " This dashboard is part of the UC Davis Data Visualization with Tableau Specialization Certification"
+    url:'https://public.tableau.com/views/StorySuperStore_16927051610570/Story1?:language=en-US&:display_count=n&:origin=viz_share_link',
+    repo: '', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'Dashboard_Inventory.jpg',
     title: 'Inventory Dashboard with Microsoft PowerBI',
     info: " Inventory management portfolio management dynamic inventory analysis dashboard. Dashboard consists of ABC and XYZ analysis and Warehouse inventory values. Data is supplied from Kaizen Analytic - DataLiteracy4All ",
     info2: " " ,

@@ -29,7 +29,7 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'SuperStore_Story_board.PNG',
-    title: 'Super Store Storyboard',
+    title: 'Super Store Storyboard with Tableau',
     info: " Created a storyboard of Super Store sales data to explore the health of the company and drill down on profitability.  Pr-eattentive shades and sizes to emphasis the important aspects of the company.",
     info2: " This dashboard is part of the UC Davis Data Visualization with Tableau Specialization Certification",
     url:'https://public.tableau.com/views/StorySuperStore_16927051610570/Story1?:language=en-US&:display_count=n&:origin=viz_share_link',

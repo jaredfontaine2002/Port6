@@ -28,8 +28,8 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'University_Class.jpg',
-    title: 'Kaggle University Data Exploration',
+    img: 'Dashboard_Inventory.jpg',
+    title: 'Inventory Dashboard with Microsoft PowerBI',
     info: " Inventory management portfolio management dynamic inventory analysis dashboard. Dashboard consists of ABC and XYZ analysis and Warehouse inventory values. Data is supplied from Kaizen Analytic - DataLiteracy4All ",
     info2: " " ,
     url:'',

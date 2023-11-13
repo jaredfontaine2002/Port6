@@ -82,7 +82,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'GOP_LOGO.jpg',
+    img: 'TIm_Day_Dashboard.PNG',
     title: 'Time Day for Ward 5 Washington, DC Council Voter Dashboard',
     info: "I created this Dashboard for the 2008 Tim Day for Ward 5 Council seat.  We needed to create canvass lists for volunteers to know on doors.  I wanted to visualize where the Republican voters lived to target them for the General election.    ",
     info2: '',

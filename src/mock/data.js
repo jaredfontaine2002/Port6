@@ -26,6 +26,15 @@ export const aboutData = {
 
 // PROJECTS DATA
 export const projectsData = [
+   {
+    id: nanoid(),
+    img: 'SuperStore_Story_board.PNG',
+    title: 'HR Dashboard',
+    info: " Self Guide Course for creating an HR Dashboard using Tableau. The tutorial was from Data Tutorials. I enjoyed using the background to spice up the dashboard.Data Tutorials has another video on how to create backgrounds like this one and I highly suggest it. Thank you to Luke Barousse for the Youtube Views on Data Analytics!",
+    info2: " Please view this dynamic dashboard on Human Resources. One can filter the dashboard by Education to see the attrition rate segmented by gender. Here is the link to the project: https://lnkd.in/eCpcH7FE",
+    url:'https://public.tableau.com/app/profile/jared.fontaine/viz/HRANALYTICSDASHBOARDFINAL/HRAnalDashbaord',
+    repo: '', // if no repo, the button will not show up
+  },
   {
     id: nanoid(),
     img: 'SuperStore_Story_board.PNG',

@@ -46,7 +46,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'HR_dashboard_picture.PNG',
+    img: 'Picture_dashboard.PNG',
     title: 'US State Fiscal Health Dashboard',
     info: " The states are color coded based on their budget rank. You can use the filter to see the trends throughout the years. This dashboard uses a dataset from Heritage organization and the background is from Freepix. I used Tableau for this project and it shows how I can create an appealing dashboard in Tableau.",
     info2: " The states are color coded based on their budget rank. You can use the filter to see the trends throughout the years. This dashboard uses a dataset from Heritage organization and the background is from Freepix. I used Tableau for this project and it shows how I can create an appealing dashboard in Tableau.",

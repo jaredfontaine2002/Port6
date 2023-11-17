@@ -46,6 +46,15 @@ export const projectsData = [
   },
   {
     id: nanoid(),
+    img: 'HR_dashboard_picture.PNG',
+    title: 'US State Fiscal Health Dashboard',
+    info: " The states are color coded based on their budget rank. You can use the filter to see the trends throughout the years. This dashboard uses a dataset from Heritage organization and the background is from Freepix. I used Tableau for this project and it shows how I can create an appealing dashboard in Tableau.",
+    info2: " The states are color coded based on their budget rank. You can use the filter to see the trends throughout the years. This dashboard uses a dataset from Heritage organization and the background is from Freepix. I used Tableau for this project and it shows how I can create an appealing dashboard in Tableau.",
+    url:'https://public.tableau.com/app/profile/jared.fontaine/viz/US_State_Fiscal_Health/Dashboard1',
+    repo: '', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
     img: 'Dashboard_Inventory.jpg',
     title: 'Inventory Dashboard with Microsoft PowerBI',
     info: " Inventory management portfolio management dynamic inventory analysis dashboard. Dashboard consists of ABC and XYZ analysis and Warehouse inventory values. Data is supplied from Kaizen Analytic - DataLiteracy4All ",

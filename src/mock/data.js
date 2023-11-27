@@ -28,7 +28,7 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'HR_dashboard_picture.PNG',
+    img: 'Pizza_Dashboard_First_page.PNG',
     title: 'Pizza Sales Dashboard',
     info: " Self Guide Course for creating an Pizza Sales Dashboard using Tableau. The tutorial was from Data Tutorials. Please view the 🍕 Pizza Sales Dashboard. The following shows weekly sales trends for pizzas, the top performers worst-performing sales in quantity, and revenue",
     info2: "First, we used 💻 Microsoft SQL Server to find the KPIs and then we imported the database into Tableau Public via Microsoft Excel.The dashboard is dynamic and you can click on the Best/Worst performers to navigate to that page",
